@@ -1,0 +1,9 @@
+const userId = "12345";
+let email = "hello@gmail.com";
+var name = "Maaz";
+
+// userId = "121212";
+email = 1234;
+name = "Arsalan";
+
+console.log(email,name);
